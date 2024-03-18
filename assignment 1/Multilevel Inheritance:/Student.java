@@ -11,6 +11,6 @@ public class Student extends Person {
 
     // Method to enroll in a course
     public void enrollCourse(String courseName) {
-        System.out.println(getName() + " is now enrolled in " + courseName);
+        System.out.println(" is now enrolled in " + courseName);
     }
 }
