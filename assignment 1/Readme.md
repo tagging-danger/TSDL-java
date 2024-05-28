@@ -2,6 +2,34 @@
 
 Welcome to Assignment 1 of the Technology Skill Development Lab (TSDL) Java course. This assignment focuses on introducing you to the basics of Java programming language.
 
+## Questions
+Let's break down the tasks according to the categories:
+
+1. **Default and Parameterized Constructors for Product Class**: This falls under **Object-Oriented Programming (OOP)**.
+
+2. **Single Inheritance**:
+    - **Base Class: Person**
+    - **Derived Class: Student**
+
+3. **Multilevel Inheritance**:
+    - **Base Class: Person**
+    - **Derived Class 1: Student**
+    - **Derived Class 2: GraduateStudent**
+
+4. **Hierarchical Inheritance**:
+    - **Base Class: Person**
+    - **Derived Class 1: Professor**
+
+5. **Hybrid Inheritance**:
+    - **Base Class 1: Person**
+    - **Base Class 2: GraduateStudent**
+    - **Derived Class: TeachingAssistant**
+
+6. **Multiple Inheritance Using Interfaces**:
+    - **Interfaces: CardioWorkout and StrengthTraining**
+    - **Derived Class: FullBodyWorkout**
+
+
 ## Topics Covered
 
 - Basics of Java programming language
